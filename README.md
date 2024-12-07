@@ -1,5 +1,5 @@
 # Comment-acc-l-rer-un-site-WordPress
-**Voici des solutions supplémentaires pour accélérer un site WordPress :
+**Voici des solutions pour accélérer un site WordPress :
 
 1. Lazy Loading : Cette technique permet de charger les images et les vidéos uniquement lorsque l'utilisateur fait défiler la page vers le bas. Cela réduit le temps de chargement initial et améliore l'expérience utilisateur .
 
